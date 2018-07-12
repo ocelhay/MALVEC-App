@@ -1,0 +1,3 @@
+DNA extracted from head and thorax of the primary and secondary Anopheles malaria vectors collected during the MALVEC field collections were used for *Plasmodium* detection. DNA extracts of 5 mosquito specimens were pooled and screened by real-time PCR. When a mosquito was found positive, real-time PCR were performed at the individual level to confirm the presence of the parasite. Afterward, a nested PCR method using specific primers that allow the detection of 5 *Plasmodium* species (*P. falciparum*, *P. vivax*, *P. malariae*, *P. ovale* and *P. knowlesi*) was performed on the infected mosquitoes. Mosquitoes artificially infected with *Plasmodium* were used as positive controls for the nested PCR.
+
+
